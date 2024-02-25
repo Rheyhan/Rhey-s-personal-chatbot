@@ -6,7 +6,7 @@
 Just trynna make a silly chatbot for the creator's amusement.
 
 <p align="center">
-<img align="center" src=".img/idiotfumo.gif" width="900">
+<img align="center" src=".img/idiotfumo.gif" width="500">
 </p>
 
 Idk, just for fun yk.
